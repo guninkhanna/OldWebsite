@@ -1,0 +1,62 @@
+.sidebox {
+    background-color: black;
+    /*background: url(../images/bg3projects.png) no-repeat;*/
+
+   /* background-color: #ffffff;*/
+    /*background-color: #66ccff;*/
+    margin-bottom:0px;
+        color: white;
+    font-family:Raleway;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left:6%;
+    padding-right:8%;
+}
+
+.sidebox p {
+    font-size:60px;
+}
+
+.sidebox h3 {
+    font-size:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color : #B6B7BB;
+
+}
+
+
+.sidebox h4 {
+    font-size:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color : #A8A8A8;
+
+}
+
+.sidebox h9 {
+   
+    color : red;
+
+}
+#insertcolor h2{
+   /* color: #4dffff;*/
+  color:  #A8A8A8; 
+ /*    color: grey;*/
+}
+
+
+
+footer
+{
+  /*  height: 50px;*/
+   /* background-color: #1d1f20 !important;*/
+    background-color: black !important;
+
+      overflow: auto;
+    overflow-x: hidden;
+    color: white;
+    padding:10px;
+
+    width: 100%;
+}
