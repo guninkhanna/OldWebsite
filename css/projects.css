@@ -4,6 +4,12 @@
     font-family:Roboto Condensed;
     z-index:80;
 }
+
+img {
+  max-width: 100%;
+ /* height: auto;*/
+}
+
 .navbar{
   border-radius: 0 !important;
   font-family: "Raleway";
