@@ -5,7 +5,7 @@ var options = {
   particleColor: '#4dffff',
    // particleColor; '#4dffff',
  
-  interactive: false,
+  interactive: true,
   retina_detect: true,
   speed: 'medium',
   density: 'high'
