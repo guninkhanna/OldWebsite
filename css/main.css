@@ -1,7 +1,8 @@
 .carousel-content {
-    color:white;
-    display:flex;
-    align-items:center;
+    color: white;
+    display: flex;
+    align-items: center;
+    background-color: blue;
 }
 img{
   max-width: 100%;
